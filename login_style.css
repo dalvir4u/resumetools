@@ -1,0 +1,44 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+    
+}
+h1{font-family:A rial, sans-serif; font-size:35px; color:#019CBA; text-align:center;}
+.header{background-image:url(images/bg.jpg); background-repeat:repeat-y; background-position:center; margin:auto; background-color: #019CBA;}
+.index_chat_now {margin:auto; width:1000px;}
+.index_chat_now ul{margin:0px; padding:0px; text-align:right; border:none; text-decoration:none;}
+.index_chat_now ul li{ display:inline; border:none; text-decoration:none; }
+..index_chat_now ul li a{border:none; text-decoration:none; }
+.logo{text-align:center; border:none; text-decoration:none; }
+.line{background-image:url(images/linebg.jpg); background-repeat:repeat-x; margin:0px;  height:10px; background-position:center; }
+.banner{background-image:url(images/banner_bg.jpg); background-repeat:repeat-y; background-position:center; padding:20px;  background-color: #DCF2FD;}
+.content{width:1000px; margin:auto;  overflow:hidden; }
+.content_left{width:500px; height:357px; font-family:Verdana, Arial, Helvetica, sans-serif; float:left; background-image:url(images/left_bg.jpg); background-repeat:repeat-y;}
+.content_right{width:500px; height:357px; float:right; font-family:Verdana, Arial, Helvetica, sans-serif; background-image:url(images/right_bg.jpg); background-repeat:repeat-y;}
+.banner_line{ background-image:url(images/banner_line.jpg); background-repeat:repeat-x; margin:0px;  padding:0px; height:10px; background-position:center; }
+
+.index_footer{background-image:url(images/footer_bg.jpg);  background-position:center; background-repeat:no-repeat; background-color:#016AA3;  padding:20px; height:250px;}
+.index_footer_menu {margin:auto; width:1000px; font-family:A rial, sans-serif; padding-top:160px; }
+.index_footer_menu ul{margin:0px; padding:0px; text-align:right;   text-align:center; }
+.index_footer_menu ul li{ display:inline; margin-left:25px; border-right:2px solid #FEFFFF; }
+.index_footer_menu ul li a{ text-decoration: none; color:#FFFFFF; margin-right:25px; }
+h5{ font-family:A rial,  sans-serif; text-align:center; font-size:12px; color:#FFFFFF; padding:10px;}
+
+
+.welcome{font-size:26px; color:#009CB9; padding:20px;}
+.form{ padding-left:20px; }
+.Email_text{width:363px;  border:1px solid #999999; border-radius:5px; height:30px;}
+.textarea{padding-top:20px;}
+.text{font-size:14px;}
+.butten{margin-top:20px;}
+.check{font-size:11px; }
+.submit_butten{background-image:url(images/submit.jpg); width:143px; height:36px; background-repeat:no-repeat; border:none; }
+
+.right_text{padding:20px; padding-left:90px;font-size:26px; text-align:center; color:#009CB9; }
+h1{font-size:16px; font-weight:normal; padding-top:40px;}
+.sign{padding-top:20px; height:}
+
+
+
+
+

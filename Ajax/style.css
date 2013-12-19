@@ -1,0 +1,43 @@
+body{margin: 0px; padding: 0px; font-family:Verdana, Arial, Helvetica, sans-serif;  }
+.main{ background-position:center;  background-repeat:no-repeat;  background-image:url(img/bg.png); height:36px; }
+.center{background-image:url(img/center_bg.png); background-repeat:repeat-y;   margin-right: -2px; background-position:center;}
+
+.footer{background-image:url(img/bottem_bg.png); background-position:center; background-repeat:no-repeat; height: 25px; margin-right: 6px;}
+
+.content{width:542px; margin:auto;}
+.chat_now1{padding-top:20px;width:542px; margin:auto;}
+.footer_go_back{text-align:center;}
+.company{float:left; color:#009CB9; font-size:12px; }
+.row-fluid{width:400px; background-image:url(img/text_bg.jpg); padding-left:14px; background-repeat:repeat-x; float:right; border-radius:10px; border:1px solid #D8D8D8;   }
+.textarea{margin:10px; overflow:hidden;}
+.date_to{  margin-left: 30px;
+    width: 134px;  background-image:url(img/text_bg.jpg); background-repeat:repeat-x; border-radius:10px; border:1px solid #D8D8D8;}
+.company_to{   color: #009CB9;
+    float: left;
+    font-size: 12px;
+    margin: 1px 11px 13px 10px;
+    padding-right: 6px; }
+
+.textarea_date{width:272px; float:left; }
+.textarea_date_2{width:272px; float:left; }
+.text_area_2{}
+.company_2 { padding-left:10px; float:left; color:#009CB9; font-size:12px; }
+.row-fluid_2{ margin-right: 10px;
+    width: 415px; background-image:url(img/text_bg.jpg); background-repeat:repeat-x; float:right; border-radius:10px; border:1px solid #D8D8D8;   }
+.text_date{  color: #009CB9;
+    float: left;
+    font-size: 12px;
+    margin: 1px 11px 13px 10px;
+    padding-right: 6px;}
+.box_to{ background-image: url("img/text_bg.jpg");
+    background-repeat: repeat-x;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px 10px 10px 10px;
+    float: right;
+    margin-right: 10px;
+    width: 166px; }
+	
+.date_from{margin-left: 45px;
+    width: 142px;  background-image:url(img/text_bg.jpg); background-repeat:repeat-x; border-radius:10px; border:1px solid #D8D8D8;}	
+	
+.submit_butten{background-image:url(/resume/Ajax/img/submit.png); border:none; height:37px; width:147px; padding-top:23px;}	
